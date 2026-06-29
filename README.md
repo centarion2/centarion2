@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Sergey. I am a backend developer. I write code in the PHP programming language mainly in the Bitrix Framework.
 <!--
 **centarion2/centarion2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
